@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Jayasimma D
 
 ### 🚀 About Me
-- 👨‍💻 I'm a **Computer Science Engineer** (3rd year) at **Chettinad College of Engineering and Technology**
+- 👨‍💻 I'm a **Computer Science Engineer** (4th year) at **Chettinad College of Engineering and Technology**
 - 🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, **LLMs**, and **Open Source**
 - 🇮🇳 Building **BharatBuddy** — a local AI assistant to empower developers and communities in India
 

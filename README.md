@@ -19,7 +19,7 @@
 - 💬 I love discussing AI, code optimization, and deployment hacks!
 
 ### 📫 How to Reach Me
-- 📧 Email: [Add your email here]
+- 📧 Email: jayasimmamomdad@gmail.com
 - 💼 LinkedIn: [Add your LinkedIn URL here]
 - 🌐 Portfolio: [If you have one, add here]
 

@@ -20,7 +20,7 @@
 
 ### 📫 How to Reach Me
 - 📧 Email: jayasimmamomdad@gmail.com
-- 💼 LinkedIn: [Add your LinkedIn URL here]
+- 💼 LinkedIn: https://www.linkedin.com/in/jayasimma-d-4057ab27b/
 - 🌐 Portfolio: [If you have one, add here]
 
 ### ✨ Fun Fact

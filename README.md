@@ -15,17 +15,6 @@
 - Building **BharatBuddy** — a local AI assistant to empower developers and communities in India
 - Motto: *Build local, think global.*
 
-## GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAYASIMMA&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAYASIMMA&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JAYASIMMA&theme=radical)
-
-</div>
 
 ### Contribution Metrics
 

@@ -19,11 +19,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAYASIMMA&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAYASIMMA&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JAYASIMMA&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
 
 </div>
 
@@ -31,13 +31,18 @@
 
 <div align="center">
 
-![Pull Requests](https://img.shields.io/badge/dynamic/json?color=blue&label=Pull%20Requests&query=%24.total&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3AJAYASIMMA%2Btype%3Apr&style=for-the-badge&logo=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
 
-![Merged PRs](https://img.shields.io/badge/dynamic/json?color=success&label=Merged%20PRs&query=%24.total&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3AJAYASIMMA%2Btype%3Apr%2Bis%3Amerged&style=for-the-badge&logo=github)
+</div>
 
-![Total Commits](https://img.shields.io/badge/dynamic/json?color=orange&label=Total%20Commits&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3AJAYASIMMA&style=for-the-badge&logo=github)
+<div align="center">
 
-![Issues Opened](https://img.shields.io/badge/dynamic/json?color=yellow&label=Issues%20Opened&query=%24.total&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3AJAYASIMMA%2Btype%3Aissue&style=for-the-badge&logo=github)
+| Metric | Count |
+|--------|-------|
+| Total Repositories | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/YOUR_USERNAME&label=&query=$.public_repos&style=flat-square&color=blue) |
+| Total Stars Earned | ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=flat-square&color=yellow) |
+| Total Forks | ![Forks](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/YOUR_USERNAME/repos?per_page=100&label=&query=$[*].forks_count&style=flat-square&color=green) |
+| Followers | ![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=orange) |
 
 </div>
 
@@ -76,9 +81,9 @@ I'm looking to **collaborate** on:
 
 <div align="center">
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/JAYASIMMA/BharatBuddy)
-[![Stars](https://img.shields.io/github/stars/JAYASIMMA/BharatBuddy?style=for-the-badge)](https://github.com/JAYASIMMA/BharatBuddy/stargazers)
-[![Forks](https://img.shields.io/github/forks/JAYASIMMA/BharatBuddy?style=for-the-badge)](https://github.com/JAYASIMMA/BharatBuddy/network/members)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/BharatBuddy)
+[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/BharatBuddy?style=for-the-badge)](https://github.com/YOUR_USERNAME/BharatBuddy/stargazers)
+[![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/BharatBuddy?style=for-the-badge)](https://github.com/YOUR_USERNAME/BharatBuddy/network/members)
 
 </div>
 
@@ -94,7 +99,7 @@ I'm looking to **collaborate** on:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=JAYASIMMA&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=for-the-badge)
 
 </div>
 
@@ -106,7 +111,7 @@ I'm looking to **collaborate** on:
 |----------|------|
 | Email | [jayasimmamomdad@gmail.com](mailto:jayasimmamomdad@gmail.com) |
 | LinkedIn | [Jayasimma D](https://www.linkedin.com/in/jayasimma-d-4057ab27b/) |
-| GitHub | [@JAYASIMMA](https://github.com/JAYASIMMA) |
+| GitHub | [@YOUR_USERNAME](https://github.com/YOUR_USERNAME) |
 
 </div>
 
